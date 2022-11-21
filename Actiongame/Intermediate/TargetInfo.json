@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionGame",
+			"Path": "C:\\UE5_Projects\\ActionGame\\Actiongame\\Source\\ActionGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionGameEditor",
+			"Path": "C:\\UE5_Projects\\ActionGame\\Actiongame\\Source\\ActionGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
