@@ -6,18 +6,40 @@
 #include "GameFramework/Character.h"
 #include "SCharacter.generated.h"
 
+class UCameraComponent;
+class USpringArmComponent;
+
 UCLASS()
 class ACTIONGAME_API ASCharacter : public ACharacter
 {
 	GENERATED_BODY()
+
+protected:
+
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<AActor> ProjectileClass;
 
 public:
 	// Sets default values for this character's properties
 	ASCharacter();
 
 protected:
+	
+	UPROPERTY(VisibleAnywhere)
+	USpringArmComponent* SpringArmComp;
+
+	UPROPERTY(VisibleAnywhere)
+	UCameraComponent* CameraComp;
+
+
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	void MoveForward(float value);
+
+	void MoveRight(float value);
+
+	void PrimaryAttack();
 
 public:	
 	// Called every frame

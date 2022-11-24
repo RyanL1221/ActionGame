@@ -1,19 +1,23 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\ue5_projects\\actiongame\\source\\actiongame\\private\\scharacter.cpp",
+        "Source": "c:\\ue5_projects\\actiongame\\actiongame\\source\\actiongame\\private\\scharacter.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\ue5_projects\\actiongame\\intermediate\\build\\win64\\actiongameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\ue5_projects\\actiongame\\actiongame\\intermediate\\build\\win64\\actiongameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\ue5_projects\\actiongame\\intermediate\\build\\win64\\unrealeditor\\development\\actiongame\\definitions.actiongame.h",
-            "c:\\ue5_projects\\actiongame\\source\\actiongame\\public\\scharacter.h",
+            "c:\\ue5_projects\\actiongame\\actiongame\\intermediate\\build\\win64\\unrealeditor\\development\\actiongame\\definitions.actiongame.h",
+            "c:\\ue5_projects\\actiongame\\actiongame\\source\\actiongame\\public\\scharacter.h",
             "e:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "e:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "e:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
             "e:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "e:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
             "e:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
-            "c:\\ue5_projects\\actiongame\\intermediate\\build\\win64\\unrealeditor\\inc\\actiongame\\scharacter.generated.h"
+            "c:\\ue5_projects\\actiongame\\actiongame\\intermediate\\build\\win64\\unrealeditor\\inc\\actiongame\\scharacter.generated.h",
+            "e:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "e:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "e:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\springarmcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

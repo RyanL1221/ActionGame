@@ -1,0 +1,5 @@
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h
+C:\UE5_Projects\ActionGame\Actiongame\Source\ActionGame\Public\SItemChest.h
+C:\UE5_Projects\ActionGame\Actiongame\Source\ActionGame\Public\SGameplayInterface.h
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame\SGameplayInterface.generated.h
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame\SItemChest.generated.h

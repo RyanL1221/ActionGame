@@ -1,6 +1,26 @@
-﻿  Using bundled DotNet SDK
-  Log file: C:\Users\ryanl\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (C:\UE5_Projects\ActionGame).
-  Creating makefile for ActionGameEditor (no existing makefile)
-  Target is up to date
-  Total execution time: 8.90 seconds
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\UE5_Projects\ActionGame).
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-0005.dll
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-0005.pdb
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-0006.dll
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-0006.pdb
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-1561.dll
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-1561.pdb
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-6492.dll
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-6492.pdb
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-7570.dll
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Binaries\Win64\UE4Editor-ActionGame-7570.pdb
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0005.lib
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0006.lib
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-1561.lib
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-6492.lib
+  Deleted hot-reload file: C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-7570.lib
+  Building ActionGameEditor...
+  Using Visual Studio 2019 14.29.30147 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-ActionGame.lib
+       Creating library C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame.lib and object C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame.exp
+    [2/3] UE4Editor-ActionGame.dll
+       Creating library C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame.suppressed.lib and object C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame.suppressed.exp
+    [3/3] ActionGameEditor.target
+  Total time in Parallel executor: 2.62 seconds
+  Total execution time: 4.02 seconds

@@ -1,0 +1,7 @@
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h
+C:\UE5_Projects\ActionGame\Actiongame\Source\ActionGame\ActionGameGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame\ActionGameGameModeBase.generated.h

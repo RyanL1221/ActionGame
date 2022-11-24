@@ -73,15 +73,15 @@ void EmptyLinkFunctionForGeneratedCodeSCharacter() {}
 		return ASCharacter::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ASCharacter);
-	struct Z_CompiledInDeferFile_FID_ActionGame_Source_ActionGame_Public_SCharacter_h_Statics
+	struct Z_CompiledInDeferFile_FID_Actiongame_Source_ActionGame_Public_SCharacter_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ActionGame_Source_ActionGame_Public_SCharacter_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Actiongame_Source_ActionGame_Public_SCharacter_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_ASCharacter, ASCharacter::StaticClass, TEXT("ASCharacter"), &Z_Registration_Info_UClass_ASCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASCharacter), 1487553515U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ActionGame_Source_ActionGame_Public_SCharacter_h_3928836283(TEXT("/Script/ActionGame"),
-		Z_CompiledInDeferFile_FID_ActionGame_Source_ActionGame_Public_SCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ActionGame_Source_ActionGame_Public_SCharacter_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Actiongame_Source_ActionGame_Public_SCharacter_h_3928836283(TEXT("/Script/ActionGame"),
+		Z_CompiledInDeferFile_FID_Actiongame_Source_ActionGame_Public_SCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Actiongame_Source_ActionGame_Public_SCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

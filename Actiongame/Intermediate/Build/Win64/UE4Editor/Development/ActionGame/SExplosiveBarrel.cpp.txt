@@ -1,0 +1,6 @@
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h
+C:\UE5_Projects\ActionGame\Actiongame\Source\ActionGame\Public\SExplosiveBarrel.h
+C:\UE5_Projects\ActionGame\Actiongame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame\SExplosiveBarrel.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/RadialForceComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RadialForceComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
