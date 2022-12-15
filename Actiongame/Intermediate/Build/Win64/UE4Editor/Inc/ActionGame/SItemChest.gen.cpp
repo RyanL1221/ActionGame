@@ -34,6 +34,10 @@ void EmptyLinkFunctionForGeneratedCodeSItemChest() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TargetPitch_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_TargetPitch;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BaseMesh_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_BaseMesh;
@@ -57,6 +61,13 @@ void EmptyLinkFunctionForGeneratedCodeSItemChest() {}
 	};
 #endif
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASItemChest_Statics::NewProp_TargetPitch_MetaData[] = {
+		{ "Category", "SItemChest" },
+		{ "ModuleRelativePath", "Public/SItemChest.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ASItemChest_Statics::NewProp_TargetPitch = { "TargetPitch", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ASItemChest, TargetPitch), METADATA_PARAMS(Z_Construct_UClass_ASItemChest_Statics::NewProp_TargetPitch_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ASItemChest_Statics::NewProp_TargetPitch_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASItemChest_Statics::NewProp_BaseMesh_MetaData[] = {
 		{ "Category", "SItemChest" },
 		{ "EditInline", "true" },
@@ -73,6 +84,7 @@ void EmptyLinkFunctionForGeneratedCodeSItemChest() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ASItemChest_Statics::NewProp_LidMesh = { "LidMesh", nullptr, (EPropertyFlags)0x00200800000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ASItemChest, LidMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ASItemChest_Statics::NewProp_LidMesh_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ASItemChest_Statics::NewProp_LidMesh_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ASItemChest_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASItemChest_Statics::NewProp_TargetPitch,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASItemChest_Statics::NewProp_BaseMesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASItemChest_Statics::NewProp_LidMesh,
 	};
@@ -106,7 +118,7 @@ void EmptyLinkFunctionForGeneratedCodeSItemChest() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASItemChest, 2982196565);
+	IMPLEMENT_CLASS(ASItemChest, 2814555759);
 	template<> ACTIONGAME_API UClass* StaticClass<ASItemChest>()
 	{
 		return ASItemChest::StaticClass();
